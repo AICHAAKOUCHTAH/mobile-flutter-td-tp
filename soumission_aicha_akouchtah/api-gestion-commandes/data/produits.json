@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nom": "iPhone",
+    "prix": 12000,
+    "stock": 5,
+    "categorie": "Phone"
+  },
+  {
+    "id": 2,
+    "nom": "Samsung",
+    "prix": 9000,
+    "stock": 3,
+    "categorie": "Phone"
+  },
+  {
+    "id": 0,
+    "nom": "Ecran 4K",
+    "prix": 2500,
+    "stock": 8,
+    "categorie": "Accessoire"
+  }
+]
